@@ -130,6 +130,9 @@ a {
 .container-uTLAY0 .list-CnI02G .item-oaSDVc.select-TdyzzL .wrap-n0vvVn {
   background-color: #fff;
 }
+.container-uTLAY0 .footer-uwlcnw {
+  display: none;
+}
 
 .container-pEpIZg {
   display: flex;
@@ -296,7 +299,7 @@ a {
 }
 
 .item-fJr0HU {
-  width: calc(100%/5);
+  width: calc(100%/var(--files-items-col));
   padding: 8px 12px;
 }
 .item-fJr0HU .wrap-OURLvq {
